@@ -56,18 +56,20 @@ class Main:
 		os.system("clear")
 		
 		print ("""\033[1;92m 
-########    ###    ##     ## #### ##     ## 
-##         ## ##   ##     ##  ##  ###   ### 
-##        ##   ##  ##     ##  ##  #### #### 
-######   ##     ## #########  ##  ## ### ## 
-##       ######### ##     ##  ##  ##     ## 
-##       ##     ## ##     ##  ##  ##     ## 
-##       ##     ## ##     ## #### ##     ## 
+ 
+ _______      _            __               
+|_   __ \    (_)          [  |  _           
+  | |__) |   __   _ .--.   | | / ] __   _   
+  |  __ /   [  | [ `.-. |  | '' < [  | | |  
+ _| |  \ \_  | |  | | | |  | |`\ \ | \_/ |, 
+|____| |___|[___][___||__][__|  \_]'.__.'_/ 
+                                            
+
 
 \033[1;90m══════════════════════════════════════════════════
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : FAHIM HOSSEN
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFACEBOOK : 
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mFB GROUP : UNKNOWN  
-\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB   : FAHIM404-CYBER
+\033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mGITHUB   : 
 \033[1;91m [\033[1;94m✯\033[1;91m] \033[1;92mWARNING  : BYPASS 
 \033[1;90m══════════════════════════════════════════════════
     """)
@@ -148,13 +150,13 @@ class Main:
 if len(sys.argv) == 2:
 	if sys.argv[1] == "--info":
 		print("   ___________________        \n  /  _____/\_   _____/        \n /   \  ___ |    __)          \n \    \_\  \|     \ \033[0;96mGALAXY\033[0;97m        \n  \______  /\___  /__\033[0;96mFACEBOOK\033[0;97m_\n         \/     \/_____/_____/")
-		print("\n [*] Author    : MR-HANDSOME")
+		print("\n [*] Author    : 
 		print(" [*] Team      :  \n")
 		print(" [ Sosial Medi  ] \n")
-		print(" [*] Facebook  : https://facebook.com/mrhandsome ")
-		print(" [*] Instagram : https://instagram.com/mr__handsome__official")
-		print(" [*] YouTube   : https://youtube.com/MR-HANDSOME")
-		exit(" [*] GitHub    : https://github.com/Handsome209")
+		print(" [*] Facebook  : 
+		print(" [*] Instagram : 
+		print(" [*] YouTube   : 
+		exit(" [*] GitHub    : 
 	else:
 		Main()
 
